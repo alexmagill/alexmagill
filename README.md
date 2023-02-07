@@ -7,5 +7,5 @@ I write about about creativity, process, and technology on my site: [alexmagill.
 ## Find me
 
 - Mastodon [@alexmagill@mastodon.social](https://mastodon.social/@alexmagill)
-- [alexmagill.com](https://alexmagill.com)
-- [boldwise.co.uk](https://boldwise.co.uk)
+- Personal site [alexmagill.com](https://alexmagill.com)
+- Bold Wise design consultancy [boldwise.co.uk](https://boldwise.co.uk)
