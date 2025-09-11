@@ -7,3 +7,4 @@ I work at (and on) my design consultancy, [Bold Wise](https://boldwise.co.uk) wh
 - Mastodon [@alexmagill@mastodon.social](https://mastodon.social/@alexmagill)
 - Personal site [alexmagill.com](https://alexmagill.com)
 - Bold Wise design consultancy [boldwise.co.uk](https://boldwise.co.uk)
+- Bold Wise Studio: UI/UX, Brand and Graphic design studio [boldwise.studio](https://boldwise.studio)
