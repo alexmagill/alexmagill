@@ -1,10 +1,11 @@
-### Hi I'm Alex Magill.
+### Alex Magill — Bold Wise
 
-I work at (and on) my design consultancy, [Bold Wise](https://boldwise.co.uk) where I help people create, improve, and market their products and services. I (sometimes) write about about creativity, process, and technology on my site: [alexmagill.com](https://alexmagill.com).
+I’m a design and strategy consultant based in South East London. I work with founders, business owners and leadership teams when something important has become unclear, stuck or harder to explain than it should be — and I help fix that through clearer thinking, sharper messaging, and better digital presence.
 
-## Find me
+I also build and maintain my own sites, which is mostly what you’ll find here.
 
-- Mastodon [@alexmagill@mastodon.social](https://mastodon.social/@alexmagill)
-- Personal site [alexmagill.com](https://alexmagill.com)
-- Bold Wise design consultancy [boldwise.co.uk](https://boldwise.co.uk)
-- Bold Wise Studio: UI/UX, Brand and Graphic design studio [boldwise.studio](https://boldwise.studio)
+- **Bold Wise** — design and strategy consultancy → [boldwise.co.uk](https://boldwise.co.uk)
+- **Bold Wise Studio** — visual identity, websites, illustration → [boldwise.studio](https://boldwise.studio)
+- **Personal site** → [alexmagill.com](https://alexmagill.com)
+- **LinkedIn** → [linkedin.com/in/alexmagill](https://linkedin.com/in/alexmagill)
+- **Mastodon** → [@alexmagill@mastodon.social](https://mastodon.social/@alexmagill)
